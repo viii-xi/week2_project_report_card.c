@@ -31,45 +31,10 @@ It was developed as part of the **MotionCut Internship Program (Week 2 Task)**.
 
 ---
 
-## 🚀 How to Run the Program
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/viii-xi/week2_project_report_card.git
-   cd week2_project_report_card
-
----
-
-Compile the code:
-
-gcc week2_project_report_card.c -o reportcard
-
----
-
-Run the program:
-
-./reportcard
-
----
-
 📂 File Structure
 week2_project_report_card/
 │-- week2_project_report_card.c   # Main source code
 │-- README.md                     # Documentation
-
----
-
-📝 Sample Output
-
-Enter name of student 1: Rahul
-Enter marks for subject 1: 85
-Enter marks for subject 2: 90
-Enter marks for subject 3: 80
-...
------ STUDENT REPORT CARD -----
-Name             Total   Average   Grade
-----------------------------------------
-Rahul            255     85.00     B
-...
 
 ---
 
